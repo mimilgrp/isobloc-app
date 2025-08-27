@@ -118,91 +118,179 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="tableLayoutPanel.ColumnCount" type="System.Int32, mscorlib">
-    <value>2</value>
+  <data name="mainLayout.ColumnCount" type="System.Int32, mscorlib">
+    <value>1</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="projectPanel.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
+  <data name="darkModeButton.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Right</value>
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="projectPanel.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="darkModeButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9pt, style=Bold</value>
+  </data>
+  <data name="darkModeButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1098, 10</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="darkModeButton.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="darkModeButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>70, 32</value>
+  </data>
+  <data name="darkModeButton.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="darkModeButton.Text" xml:space="preserve">
+    <value>DARK</value>
+  </data>
+  <data name="&gt;&gt;darkModeButton.Name" xml:space="preserve">
+    <value>darkModeButton</value>
+  </data>
+  <data name="&gt;&gt;darkModeButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;darkModeButton.Parent" xml:space="preserve">
+    <value>titlePanel</value>
+  </data>
+  <data name="&gt;&gt;darkModeButton.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="titleLabel.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="titleLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt, style=Bold</value>
+  </data>
+  <data name="titleLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 10</value>
+  </data>
+  <data name="titleLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1158, 32</value>
+  </data>
+  <data name="titleLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="titleLabel.Text" xml:space="preserve">
+    <value>ISOBLOC</value>
+  </data>
+  <data name="titleLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;titleLabel.Name" xml:space="preserve">
+    <value>titleLabel</value>
+  </data>
+  <data name="&gt;&gt;titleLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;titleLabel.Parent" xml:space="preserve">
+    <value>titlePanel</value>
+  </data>
+  <data name="&gt;&gt;titleLabel.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="titlePanel.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="titlePanel.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 3</value>
   </data>
-  <data name="projectPanel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>586, 449</value>
+  <data name="titlePanel.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>10, 10, 10, 10</value>
   </data>
-  <data name="projectPanel.TabIndex" type="System.Int32, mscorlib">
+  <data name="titlePanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1178, 52</value>
+  </data>
+  <data name="titlePanel.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <data name="&gt;&gt;projectPanel.Name" xml:space="preserve">
-    <value>projectPanel</value>
+  <data name="&gt;&gt;titlePanel.Name" xml:space="preserve">
+    <value>titlePanel</value>
   </data>
-  <data name="&gt;&gt;projectPanel.Type" xml:space="preserve">
+  <data name="&gt;&gt;titlePanel.Type" xml:space="preserve">
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;projectPanel.Parent" xml:space="preserve">
-    <value>tableLayoutPanel</value>
+  <data name="&gt;&gt;titlePanel.Parent" xml:space="preserve">
+    <value>mainLayout</value>
   </data>
-  <data name="&gt;&gt;projectPanel.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;titlePanel.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="renderPanel.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
-  <data name="renderPanel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>595, 3</value>
-  </data>
-  <data name="renderPanel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>586, 449</value>
-  </data>
-  <data name="renderPanel.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;renderPanel.Name" xml:space="preserve">
-    <value>renderPanel</value>
-  </data>
-  <data name="&gt;&gt;renderPanel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;renderPanel.Parent" xml:space="preserve">
-    <value>tableLayoutPanel</value>
-  </data>
-  <data name="&gt;&gt;renderPanel.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="blocsPanel.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
-  <data name="blocsPanel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 458</value>
-  </data>
-  <data name="blocsPanel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>586, 450</value>
-  </data>
-  <data name="blocsPanel.TabIndex" type="System.Int32, mscorlib">
+  <data name="gridLayout.ColumnCount" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
-  <data name="&gt;&gt;blocsPanel.Name" xml:space="preserve">
-    <value>blocsPanel</value>
+  <data name="resultDataGridView.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
   </data>
-  <data name="&gt;&gt;blocsPanel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="resultDataGridView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 10</value>
   </data>
-  <data name="&gt;&gt;blocsPanel.Parent" xml:space="preserve">
-    <value>tableLayoutPanel</value>
+  <data name="resultDataGridView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>563, 351</value>
   </data>
-  <data name="&gt;&gt;blocsPanel.ZOrder" xml:space="preserve">
-    <value>2</value>
+  <data name="resultDataGridView.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;resultDataGridView.Name" xml:space="preserve">
+    <value>resultDataGridView</value>
+  </data>
+  <data name="&gt;&gt;resultDataGridView.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;resultDataGridView.Parent" xml:space="preserve">
+    <value>resultPanel</value>
+  </data>
+  <data name="&gt;&gt;resultDataGridView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="resultExportButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="resultExportButton.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="resultExportButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9pt, style=Bold</value>
+  </data>
+  <data name="resultExportButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="resultExportButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>444, 377</value>
+  </data>
+  <data name="resultExportButton.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>10, 3, 10, 3</value>
+  </data>
+  <data name="resultExportButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>129, 31</value>
+  </data>
+  <data name="resultExportButton.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="resultExportButton.Text" xml:space="preserve">
+    <value>EXPORTER CSV</value>
+  </data>
+  <data name="&gt;&gt;resultExportButton.Name" xml:space="preserve">
+    <value>resultExportButton</value>
+  </data>
+  <data name="&gt;&gt;resultExportButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;resultExportButton.Parent" xml:space="preserve">
+    <value>resultPanel</value>
+  </data>
+  <data name="&gt;&gt;resultExportButton.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
   <data name="resultPanel.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
   <data name="resultPanel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>595, 458</value>
+    <value>592, 426</value>
   </data>
   <data name="resultPanel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>586, 450</value>
+    <value>583, 418</value>
   </data>
   <data name="resultPanel.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -214,40 +302,562 @@
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;resultPanel.Parent" xml:space="preserve">
-    <value>tableLayoutPanel</value>
+    <value>gridLayout</value>
   </data>
   <data name="&gt;&gt;resultPanel.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>0</value>
   </data>
-  <data name="tableLayoutPanel.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
+  <data name="projectDataGridView.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
   </data>
-  <data name="tableLayoutPanel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
+  <data name="projectDataGridView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 119</value>
   </data>
-  <data name="tableLayoutPanel.RowCount" type="System.Int32, mscorlib">
+  <data name="projectDataGridView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>563, 238</value>
+  </data>
+  <data name="projectDataGridView.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;projectDataGridView.Name" xml:space="preserve">
+    <value>projectDataGridView</value>
+  </data>
+  <data name="&gt;&gt;projectDataGridView.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;projectDataGridView.Parent" xml:space="preserve">
+    <value>projectPanel</value>
+  </data>
+  <data name="&gt;&gt;projectDataGridView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="projectNameLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Left, Right</value>
+  </data>
+  <data name="projectNameLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 18pt, style=Bold</value>
+  </data>
+  <data name="projectNameLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="projectNameLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 54</value>
+  </data>
+  <data name="projectNameLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>563, 29</value>
+  </data>
+  <data name="projectNameLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="projectNameLabel.Text" xml:space="preserve">
+    <value>PROJET 1</value>
+  </data>
+  <data name="projectNameLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;projectNameLabel.Name" xml:space="preserve">
+    <value>projectNameLabel</value>
+  </data>
+  <data name="&gt;&gt;projectNameLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;projectNameLabel.Parent" xml:space="preserve">
+    <value>projectPanel</value>
+  </data>
+  <data name="&gt;&gt;projectNameLabel.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="projectFileLabel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Left, Right</value>
+  </data>
+  <data name="projectFileLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 14.25pt</value>
+  </data>
+  <data name="projectFileLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 83</value>
+  </data>
+  <data name="projectFileLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>563, 23</value>
+  </data>
+  <data name="projectFileLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="projectFileLabel.Text" xml:space="preserve">
+    <value>projet1.dwg</value>
+  </data>
+  <data name="&gt;&gt;projectFileLabel.Name" xml:space="preserve">
+    <value>projectFileLabel</value>
+  </data>
+  <data name="&gt;&gt;projectFileLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;projectFileLabel.Parent" xml:space="preserve">
+    <value>projectPanel</value>
+  </data>
+  <data name="&gt;&gt;projectFileLabel.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="tableLayoutPanel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1184, 911</value>
+  <data name="projectCloseButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
   </data>
-  <data name="tableLayoutPanel.TabIndex" type="System.Int32, mscorlib">
+  <data name="projectCloseButton.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="projectCloseButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9pt, style=Bold</value>
+  </data>
+  <data name="projectCloseButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="projectCloseButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>483, 10</value>
+  </data>
+  <data name="projectCloseButton.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>10, 3, 10, 3</value>
+  </data>
+  <data name="projectCloseButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 32</value>
+  </data>
+  <data name="projectCloseButton.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="projectCloseButton.Text" xml:space="preserve">
+    <value>FERMER</value>
+  </data>
+  <data name="&gt;&gt;projectCloseButton.Name" xml:space="preserve">
+    <value>projectCloseButton</value>
+  </data>
+  <data name="&gt;&gt;projectCloseButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;projectCloseButton.Parent" xml:space="preserve">
+    <value>projectPanel</value>
+  </data>
+  <data name="&gt;&gt;projectCloseButton.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="projectImportButton.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="projectImportButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9pt, style=Bold</value>
+  </data>
+  <data name="projectImportButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="projectImportButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 10</value>
+  </data>
+  <data name="projectImportButton.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>10, 3, 10, 3</value>
+  </data>
+  <data name="projectImportButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>102, 31</value>
+  </data>
+  <data name="projectImportButton.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="projectImportButton.Text" xml:space="preserve">
+    <value>IMPORTER</value>
+  </data>
+  <data name="&gt;&gt;projectImportButton.Name" xml:space="preserve">
+    <value>projectImportButton</value>
+  </data>
+  <data name="&gt;&gt;projectImportButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;projectImportButton.Parent" xml:space="preserve">
+    <value>projectPanel</value>
+  </data>
+  <data name="&gt;&gt;projectImportButton.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="projectCalculateButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="projectCalculateButton.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="projectCalculateButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9pt, style=Bold</value>
+  </data>
+  <data name="projectCalculateButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="projectCalculateButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>473, 373</value>
+  </data>
+  <data name="projectCalculateButton.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>10, 3, 10, 3</value>
+  </data>
+  <data name="projectCalculateButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 31</value>
+  </data>
+  <data name="projectCalculateButton.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="projectCalculateButton.Text" xml:space="preserve">
+    <value>CALCULER</value>
+  </data>
+  <data name="&gt;&gt;projectCalculateButton.Name" xml:space="preserve">
+    <value>projectCalculateButton</value>
+  </data>
+  <data name="&gt;&gt;projectCalculateButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;projectCalculateButton.Parent" xml:space="preserve">
+    <value>projectPanel</value>
+  </data>
+  <data name="&gt;&gt;projectCalculateButton.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="projectPanel.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="projectPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="projectPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>583, 417</value>
+  </data>
+  <data name="projectPanel.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <data name="&gt;&gt;tableLayoutPanel.Name" xml:space="preserve">
-    <value>tableLayoutPanel</value>
+  <data name="&gt;&gt;projectPanel.Name" xml:space="preserve">
+    <value>projectPanel</value>
   </data>
-  <data name="&gt;&gt;tableLayoutPanel.Type" xml:space="preserve">
+  <data name="&gt;&gt;projectPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;projectPanel.Parent" xml:space="preserve">
+    <value>gridLayout</value>
+  </data>
+  <data name="&gt;&gt;projectPanel.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="renderTableLayoutPanel.ColumnCount" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="renderWestPictureBox.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="renderWestPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="renderWestPictureBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>291, 208</value>
+  </data>
+  <data name="renderWestPictureBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>283, 200</value>
+  </data>
+  <data name="renderWestPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="renderWestPictureBox.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;renderWestPictureBox.Name" xml:space="preserve">
+    <value>renderWestPictureBox</value>
+  </data>
+  <data name="&gt;&gt;renderWestPictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;renderWestPictureBox.Parent" xml:space="preserve">
+    <value>renderTableLayoutPanel</value>
+  </data>
+  <data name="&gt;&gt;renderWestPictureBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="renderSouthPictureBox.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="renderSouthPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="renderSouthPictureBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 208</value>
+  </data>
+  <data name="renderSouthPictureBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>282, 200</value>
+  </data>
+  <data name="renderSouthPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="renderSouthPictureBox.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;renderSouthPictureBox.Name" xml:space="preserve">
+    <value>renderSouthPictureBox</value>
+  </data>
+  <data name="&gt;&gt;renderSouthPictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;renderSouthPictureBox.Parent" xml:space="preserve">
+    <value>renderTableLayoutPanel</value>
+  </data>
+  <data name="&gt;&gt;renderSouthPictureBox.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="renderEastPictureBox.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="renderEastPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="renderEastPictureBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>291, 3</value>
+  </data>
+  <data name="renderEastPictureBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>283, 199</value>
+  </data>
+  <data name="renderEastPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="renderEastPictureBox.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;renderEastPictureBox.Name" xml:space="preserve">
+    <value>renderEastPictureBox</value>
+  </data>
+  <data name="&gt;&gt;renderEastPictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;renderEastPictureBox.Parent" xml:space="preserve">
+    <value>renderTableLayoutPanel</value>
+  </data>
+  <data name="&gt;&gt;renderEastPictureBox.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="renderNorthPictureBox.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="renderNorthPictureBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="renderNorthPictureBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>282, 199</value>
+  </data>
+  <data name="renderNorthPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="renderNorthPictureBox.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;renderNorthPictureBox.Name" xml:space="preserve">
+    <value>renderNorthPictureBox</value>
+  </data>
+  <data name="&gt;&gt;renderNorthPictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;renderNorthPictureBox.Parent" xml:space="preserve">
+    <value>renderTableLayoutPanel</value>
+  </data>
+  <data name="&gt;&gt;renderNorthPictureBox.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="renderTableLayoutPanel.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="renderTableLayoutPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="renderTableLayoutPanel.RowCount" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="renderTableLayoutPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>577, 411</value>
+  </data>
+  <data name="renderTableLayoutPanel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;renderTableLayoutPanel.Name" xml:space="preserve">
+    <value>renderTableLayoutPanel</value>
+  </data>
+  <data name="&gt;&gt;renderTableLayoutPanel.Type" xml:space="preserve">
     <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;tableLayoutPanel.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="&gt;&gt;renderTableLayoutPanel.Parent" xml:space="preserve">
+    <value>renderPanel</value>
   </data>
-  <data name="&gt;&gt;tableLayoutPanel.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;renderTableLayoutPanel.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="tableLayoutPanel.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
-    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="projectPanel" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="renderPanel" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="blocsPanel" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="resultPanel" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,50,Percent,50" /&gt;&lt;Rows Styles="Percent,50,Percent,50" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  <data name="renderTableLayoutPanel.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="renderWestPictureBox" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="renderSouthPictureBox" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="renderEastPictureBox" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="renderNorthPictureBox" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,50,Percent,50" /&gt;&lt;Rows Styles="Percent,50,Percent,50" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="renderPanel.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="renderPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>592, 3</value>
+  </data>
+  <data name="renderPanel.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="renderPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>583, 417</value>
+  </data>
+  <data name="renderPanel.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;renderPanel.Name" xml:space="preserve">
+    <value>renderPanel</value>
+  </data>
+  <data name="&gt;&gt;renderPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;renderPanel.Parent" xml:space="preserve">
+    <value>gridLayout</value>
+  </data>
+  <data name="&gt;&gt;renderPanel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="blocAjouterButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="blocAjouterButton.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="blocAjouterButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9pt, style=Bold</value>
+  </data>
+  <data name="blocAjouterButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="blocAjouterButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>481, 377</value>
+  </data>
+  <data name="blocAjouterButton.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>10, 3, 10, 3</value>
+  </data>
+  <data name="blocAjouterButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 31</value>
+  </data>
+  <data name="blocAjouterButton.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="blocAjouterButton.Text" xml:space="preserve">
+    <value>AJOUTER</value>
+  </data>
+  <data name="&gt;&gt;blocAjouterButton.Name" xml:space="preserve">
+    <value>blocAjouterButton</value>
+  </data>
+  <data name="&gt;&gt;blocAjouterButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;blocAjouterButton.Parent" xml:space="preserve">
+    <value>blocPanel</value>
+  </data>
+  <data name="&gt;&gt;blocAjouterButton.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="blocDataGridView.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="blocDataGridView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 10</value>
+  </data>
+  <data name="blocDataGridView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>563, 351</value>
+  </data>
+  <data name="blocDataGridView.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;blocDataGridView.Name" xml:space="preserve">
+    <value>blocDataGridView</value>
+  </data>
+  <data name="&gt;&gt;blocDataGridView.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;blocDataGridView.Parent" xml:space="preserve">
+    <value>blocPanel</value>
+  </data>
+  <data name="&gt;&gt;blocDataGridView.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="blocPanel.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="blocPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 426</value>
+  </data>
+  <data name="blocPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>583, 418</value>
+  </data>
+  <data name="blocPanel.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;blocPanel.Name" xml:space="preserve">
+    <value>blocPanel</value>
+  </data>
+  <data name="&gt;&gt;blocPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;blocPanel.Parent" xml:space="preserve">
+    <value>gridLayout</value>
+  </data>
+  <data name="&gt;&gt;blocPanel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="gridLayout.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="gridLayout.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 61</value>
+  </data>
+  <data name="gridLayout.RowCount" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="gridLayout.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1178, 847</value>
+  </data>
+  <data name="gridLayout.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;gridLayout.Name" xml:space="preserve">
+    <value>gridLayout</value>
+  </data>
+  <data name="&gt;&gt;gridLayout.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;gridLayout.Parent" xml:space="preserve">
+    <value>mainLayout</value>
+  </data>
+  <data name="&gt;&gt;gridLayout.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="gridLayout.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="resultPanel" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="projectPanel" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="renderPanel" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="blocPanel" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,50,Percent,50" /&gt;&lt;Rows Styles="Percent,50,Percent,50" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="mainLayout.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="mainLayout.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="mainLayout.RowCount" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="mainLayout.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1184, 911</value>
+  </data>
+  <data name="mainLayout.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;mainLayout.Name" xml:space="preserve">
+    <value>mainLayout</value>
+  </data>
+  <data name="&gt;&gt;mainLayout.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;mainLayout.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;mainLayout.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="mainLayout.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="titlePanel" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="gridLayout" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Absolute,20" /&gt;&lt;Rows Styles="Absolute,58,Percent,100" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
