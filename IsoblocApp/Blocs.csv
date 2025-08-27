@@ -1,0 +1,35 @@
+Checked;Type;Longueur;Hauteur;Epaisseur;Reservation
+True;b01;300;1000;300;simple angle
+True;b02;300;1000;300;simple droit
+True;b03;300;1000;300;plein
+True;b04;600;1000;300;simple droit
+True;b05;600;1000;300;plein
+True;b06;600;1000;300;simple angle
+True;b07;600;1000;300;double
+True;b08;900;1000;300;double
+True;b09;900;1000;300;plein
+True;b10;900;1000;300;simple angle
+True;b11;900;1000;300;simple droit
+True;b12;1200;1000;300;double
+True;b13;1200;1000;300;plein
+True;b14;1200;1000;300;simple angle
+True;b15;1200;1000;300;simple droit
+True;c01;300;1000;300;simple angle 1
+True;c02;300;1000;300;simple angle 2
+True;c03;300;1000;300;simple droit
+True;c04;300;1000;300;plein
+True;c05;600;1000;300;double
+True;c06;600;1000;300;simple angle 1
+True;c07;600;1000;300;simple angle 2
+True;c08;600;1000;300;simple droit
+True;c09;600;1000;300;plein
+True;c10;900;1000;300;double
+True;c11;900;1000;300;simple angle 1
+True;c12;900;1000;300;simple angle 2
+True;c13;900;1000;300;simple droit
+True;c14;900;1000;300;plein
+True;c15;1200;1000;300;double
+True;c16;1200;1000;300;simple angle 1
+True;c17;1200;1000;300;simple angle 2
+True;c18;1200;1000;300;simple droit
+True;c19;1200;1000;300;plein
