@@ -3,9 +3,54 @@
         "Name": "Projet1",
         "Filepath": "C:\\Users\\mimil\\Downloads\\Plans 1.dwg",
         "Date": "2025-08-26T21:48:41.5380697+02:00",
-        "Results": null,
-        "TotalBlocAmount": 0,
-        "StandardBlocAmount": 0,
-        "SpecialBlocAmount": 0
+        "Results": [
+            {
+                "Bloc": {
+                    "Checked": true,
+                    "Type": "B01",
+                    "Longueur": 300,
+                    "Hauteur": 1000,
+                    "Epaisseur": 300,
+                    "Reservation": "Simple Angle"
+                },
+                "Quantite": 84
+            },
+            {
+                "Bloc": {
+                    "Checked": true,
+                    "Type": "B06",
+                    "Longueur": 600,
+                    "Hauteur": 1000,
+                    "Epaisseur": 300,
+                    "Reservation": "Simple Angle"
+                },
+                "Quantite": 17
+            },
+            {
+                "Bloc": {
+                    "Checked": true,
+                    "Type": "B10",
+                    "Longueur": 900,
+                    "Hauteur": 1000,
+                    "Epaisseur": 300,
+                    "Reservation": "Simple Angle"
+                },
+                "Quantite": 32
+            },
+            {
+                "Bloc": {
+                    "Checked": true,
+                    "Type": "S01",
+                    "Longueur": 850,
+                    "Hauteur": 1000,
+                    "Epaisseur": 300,
+                    "Reservation": "Plein"
+                },
+                "Quantite": 1
+            }
+        ],
+        "TotalBlocAmount": 134,
+        "StandardBlocAmount": 133,
+        "SpecialBlocAmount": 1
     }
 ]

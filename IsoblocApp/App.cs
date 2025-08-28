@@ -419,7 +419,8 @@ public partial class App : Form
         SaveFileDialog saveFileDialog = new()
         {
             Filter = "Fichier CSV (*.csv)|*.csv",
-            DefaultExt = "csv"
+            DefaultExt = "csv",
+            FileName = $"{currentProject?.Name.Replace(" ", "")}_{DateTime.Now:yyyyMMdd_HHmmss}.csv"
         };
 
         if (saveFileDialog.ShowDialog() == DialogResult.OK)
